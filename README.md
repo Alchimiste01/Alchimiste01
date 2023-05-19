@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alchimiste01
-- 👀 I’m interested in learning code to work as a coder (not fully commit to one specific area)
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in learning code to work as a coder (not fully committed to one specific area)
+- 🌱 I’m currently learning C++ (I know html, css3 and javascript)
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me : just send me a message
 
